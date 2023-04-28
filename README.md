@@ -40,6 +40,6 @@ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 4. If you want to exit press exit
 
 ## Contributors
-
+among others
 <atalakidi@gmail.com>
 <cyrilondanje@gmail.com>
